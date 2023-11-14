@@ -1,0 +1,69 @@
+{
+  "imoveis": [
+    {
+      "rua": "Mãe Dominga",
+      "numero": 1,
+      "tipo": "TB"
+    },
+    {
+      "rua": "Mãe Dominga",
+      "numero": 2,
+      "tipo": "O"
+    },
+    {
+      "rua": "Mãe Dominga",
+      "numero": 3,
+      "tipo": "O"
+    },
+    {
+      "rua": "Mãe Dominga",
+      "numero": 4,
+      "tipo": "R"
+    },
+    {
+      "rua": "Mãe Dominga",
+      "numero": 5,
+      "tipo": "R"
+    },
+    {
+      "rua": "Mãe Dominga",
+      "numero": 6,
+      "tipo": "R"
+    },
+    {
+      "rua": "Mãe Dominga",
+      "numero": 7,
+      "tipo": "O"
+    },
+    {
+      "rua": "Mãe Dominga",
+      "numero": 8,
+      "tipo": "R"
+    },
+    {
+      "rua": "Mãe Dominga",
+      "numero": 9,
+      "tipo": "R"
+    },
+    {
+      "rua": "Mãe Dominga",
+      "numero": 10,
+      "tipo": "R"
+    },
+    {
+      "rua": "Mãe Dominga",
+      "numero": 11,
+      "tipo": "O"
+    },
+    {
+      "rua": "Mãe Dominga",
+      "numero": 12,
+      "tipo": "TB"
+    },
+    {
+      "rua": "Mãe Dominga",
+      "numero": 13,
+      "tipo": "R"
+    }
+  ]
+}
